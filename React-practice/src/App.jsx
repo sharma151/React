@@ -1,13 +1,13 @@
-import './App.css'
-import References from './hooks/useRef'
+import "./App.css";
+import HomePage from "./components/homepage";
+// import References from "../hooks/useRef";
 
 function App() {
-
   return (
     <>
-     <References/>
+      <HomePage/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
