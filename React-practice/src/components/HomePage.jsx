@@ -1,9 +1,11 @@
-
+import "../components/homepage.scss";
 
 const homepage = () => {
   return (
-    <div>homepage</div>
-  )
-}
+    <div>
+      <h2>homepage</h2>
+    </div>
+  );
+};
 
-export default homepage
+export default homepage;
