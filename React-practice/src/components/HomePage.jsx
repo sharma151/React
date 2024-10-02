@@ -2,9 +2,8 @@ import "../components/homepage.scss";
 
 const homepage = () => {
   return (
-    <div>
-      <h2>homepage</h2>
-      
+    <div className="Homepage">
+      <h1>hello</h1>
     </div>
   );
 };
